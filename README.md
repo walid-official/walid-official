@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Walid Hasan
+## Hi there 👋, My name is Walid Hasan
 #### I am MERN stack Frontend Developer
 ![I am MERN stack Frontend Developer](https://i.ibb.co.com/n3yxSVD/954648be-3994-4ac2-9d46-7a3365176a53.webp)
 
