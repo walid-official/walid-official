@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Walid Hasan
+## Hi there 👋, My name is Walid Hasan
 #### I am MERN stack frontend developer
-![I am MERN stack frontend developer](https://lh3.googleusercontent.com/d/1kTWe67OWk_5b9Zt8c-CjHJhtHsRZPNtF?authuser=0)
+![I am MERN stack frontend developer]([https://lh3.googleusercontent.com/d/1kTWe67OWk_5b9Zt8c-CjHJhtHsRZPNtF?authuser=0](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max))
 
 I am a passionate Web Developer specializing in React.js with over 1 year of experience in Front-End Development and expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). My journey in web development is fueled by a strong commitment to crafting efficient, responsive, and user-friendly applications.
 
