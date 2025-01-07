@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="[https://img.freepik.com/premium-photo/man-is-playing-video-game-with-word-w-w-it_570313-3004.jpg?w=1380](https://img.freepik.com/premium-vector/abstract-coding-programming-banner-background-with-digital-binary-data-gears-digital-pixels_618588-1696.jpg?w=1380)"  />
-</div>
+<img align="right" height="200" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"  />
 
 ###
 
