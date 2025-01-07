@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="left" height="200" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg"  />
 
 ###
@@ -17,6 +19,16 @@
 <br clear="both">
 
 <p align="left">I am a passionate Frontend MERN Stack Web Developer with a strong foundation in creating dynamic and responsive web applications. My expertise lies in crafting seamless user experiences using modern technologies like React, JavaScript, and Tailwind CSS. I take pride in building intuitive interfaces and ensuring optimal performance across all devices.</p>
+
+###
+
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next.js and TanStack<br>🎯 Goals: To become a full-stack developer proficient in the MERN stack and build scalable, user-centric applications<br>🎲 Fun fact: I once debugged an issue for hours, only to realize it was caused by a missing semicolon!</p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
@@ -70,5 +82,17 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/walid-official/walid-official/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/walid-official/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
