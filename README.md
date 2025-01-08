@@ -3,7 +3,7 @@
 <img align="left" height="200" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg"  />
 
 ###
-<div align="right">
+<div align="left">
   <h3 aligh="left"> Hi 👋 I'm Walid Hasan</h3>
   <h4 align="left">MERN Stack Frontend Developer</h4> 
 </div>
