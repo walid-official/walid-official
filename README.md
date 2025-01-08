@@ -17,6 +17,9 @@
 ###
 
 <br clear="both">
+# Welcome to My GitHub Profile!
+
+![Typing Animation](https://your-image-hosting-service.com/typing-animation.gif)
 
 <p align="left">I am a passionate Frontend MERN Stack Web Developer with a strong foundation in creating dynamic and responsive web applications. My expertise lies in crafting seamless user experiences using modern technologies like React, JavaScript, and Tailwind CSS. I take pride in building intuitive interfaces and ensuring optimal performance across all devices.</p>
 
