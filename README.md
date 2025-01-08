@@ -4,7 +4,7 @@
 
 ###
 <div align="right">
-  # Hi 👋 I'm Walid Hasan</h1>
+  # Hi 👋 I'm Walid Hasan
   ## MERN Stack Frontend Developer
 </div>
 
