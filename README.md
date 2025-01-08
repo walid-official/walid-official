@@ -39,6 +39,8 @@
 ###
 
 <div align="left">
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465)" height="30" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
