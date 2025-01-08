@@ -4,8 +4,8 @@
 
 ###
 <div align="right">
-  <h3 align="left">Hi 👋 I'm Walid Hasan</h1>
-  <h4 align="left">MERN Stack Frontend Developer</h3>
+  # Hi 👋 I'm Walid Hasan</h1>
+  ## MERN Stack Frontend Developer
 </div>
 
 
