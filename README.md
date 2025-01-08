@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! I'm Walid Hasan</h1>
+<h1 align="left">Hi 👋 I'm Walid Hasan</h1>
 
 ###
 
