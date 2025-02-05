@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="200" />
 </div>
 
@@ -20,20 +20,24 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=walid-official&show_icons=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walid-official&layout=compact&theme=dracula" height="150" />
 </div>
 
-<a href="https://git.io/streak-stats">
+##
+
+<div>
+  <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=walid-official&theme=dark" alt="GitHub Streak" />
 </a>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -51,7 +55,7 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 
 ## 📬 Connect with Me  
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/channels/1256295350591815741/1256295351380611205" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -67,6 +71,6 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 
 ## 🔥 Profile Visits  
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/walid-official/count.svg?" />
 </div>
