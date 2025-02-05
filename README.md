@@ -95,7 +95,8 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="40"/></td>
+    <td align="center"><img src="https://camo.githubusercontent.com/5f77e0dcd4bf05df1401e866295f89e2c877ff5bc317e5210c062cfa6ca33065/68747470733a2f2f692e6962622e636f2e636f6d2f514a64733131302f69636f6e31342e706e67" alt="Alt Text" height="100" width="100" />
+</td>
   </tr>
 </table>
 
