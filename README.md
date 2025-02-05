@@ -37,7 +37,7 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 
 ## 🛠️ Tech Stack  
 
-<div align="left">
+
 | VS Code | HTML5 | CSS3 | Bootstrap | Tailwind CSS |
 |---------|-------|------|-----------|-------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/> |
@@ -54,7 +54,7 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 |-------------|------|-------|-------------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/> | <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="40"/> |
 
-</div>
+
 
 ---
 
