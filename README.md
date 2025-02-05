@@ -4,12 +4,12 @@
 
 # 👋 Hi, I'm Walid Hasan  
 ## 🚀 Frontend MERN Stack Developer  
-
+## 🔥 About Me  
 I am a passionate **Frontend MERN Stack Developer** with a strong foundation in creating **dynamic** and **responsive** web applications. My expertise lies in **React**, **JavaScript**, and **Tailwind CSS**, crafting seamless **user experiences** while ensuring optimal performance across all devices.  
 
 ---
+##
 
-## 🔥 About Me  
 
 - ✨ Creating bugs since **2023**  
 - 📚 Currently learning **Next.js** and **TanStack**  
