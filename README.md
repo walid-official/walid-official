@@ -1,9 +1,11 @@
-<div align="left">
-  <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="200" />
+<div style="display: flex; align-items: center;">
+  <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="200" style="margin-right: 15px; border-radius: 10px;" />
+  <div>
+    <h1>👋 Hi, I'm Walid Hasan</h1>
+    <h2>🚀 Frontend MERN Stack Developer</h2>
+  </div>
 </div>
 
-# 👋 Hi, I'm Walid Hasan  
-## 🚀 Frontend MERN Stack Developer  
 ## 🔥 About Me  
 I am a passionate **Frontend MERN Stack Developer** with a strong foundation in creating **dynamic** and **responsive** web applications. My expertise lies in **React**, **JavaScript**, and **Tailwind CSS**, crafting seamless **user experiences** while ensuring optimal performance across all devices.  
 
