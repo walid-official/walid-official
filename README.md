@@ -45,15 +45,16 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
     <td align="center"><strong>VS Code</strong></td>
     <td align="center"><strong>HTML5</strong></td>
     <td align="center"><strong>CSS3</strong></td>
-    <td align="center"><strong>Bootstrap</strong></td>
     <td align="center"><strong>Tailwind CSS</strong></td>
+    <td align="center"><strong>DaisyUI</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" height="40"></td>
+  
   </tr>
   <tr>
     <td align="center"><strong>JavaScript</strong></td>
