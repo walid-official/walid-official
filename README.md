@@ -38,7 +38,7 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 ## 🛠️ Tech Stack  
 
 
-<table>
+<table style="width:100%;">
   <tr>
     <td align="center"><strong>VS Code</strong></td>
     <td align="center"><strong>HTML5</strong></td>
