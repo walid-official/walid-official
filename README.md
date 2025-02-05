@@ -61,7 +61,7 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
     <td align="center"><strong>Git</strong></td>
     <td align="center"><strong>GitHub</strong></td>
     <td align="center"><strong>NPM</strong></td>
-    <td align="center"><strong>DaisyUI</strong></td>
+    <td align="center"><strong>Bootstrap</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></td>
