@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://i.ibb.co/fGKbkNgy/Whats-App-Image-2025-02-05-at-07-42-46-fcdee1f2.jpg" alt="Description">
+  <img src="https://i.ibb.co/fGKbkNgy/Whats-App-Image-2025-02-05-at-07-42-46-fcdee1f2.jpg" alt="Description" height="400">
 </div>
 
 # 👋 Hi, I'm Walid Hasan  
