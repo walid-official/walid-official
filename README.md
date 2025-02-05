@@ -5,13 +5,13 @@
 ###
 <div align="left">
   <h3 aligh="left"> Hi 👋 I'm Walid Hasan</h3>
-  <h4 align="left">MERN Stack Frontend Developer</h4> 
+  <h4 align="left">Frontend MERN Stack Developer</h4> 
 </div>
 
 
 ###
 
-<h2 align="left">About Me</h2>
+<h4 align="left">About Me</h4>
 
 ###
 
