@@ -1,5 +1,6 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="200" style="margin-right: 15px; border-radius: 10px;" />
+  <img src="https://i.ibb.co.com/0jLN39Z9/Screenshot-2025-02-06-202055.png" height="200" style="border-radius: 10px;" />
+
 
   <div>
     <h1>👋 Hi, I'm Walid Hasan</h1>
