@@ -1,5 +1,6 @@
 <div style="display: flex; align-items: center;">
   <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" height="200" style="margin-right: 15px; border-radius: 10px;" />
+
   <div>
     <h1>👋 Hi, I'm Walid Hasan</h1>
     <h2>🚀 Frontend MERN Stack Developer</h2>
