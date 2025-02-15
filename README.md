@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div align="left">
-    <img src="https://i.ibb.co.com/0jLN39Z9/Screenshot-2025-02-06-202055.png" height="400" style="border-radius: 8px;" />
-
+    <img src="https://i.ibb.co/6RdvSZdj/Whats-App-Image-2025-02-15-at-20-43-32-c7aa51a6.jpg" height="400" style="border-radius: 8px;" />
   </div>
 
 
