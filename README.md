@@ -41,72 +41,94 @@ I am a passionate **Frontend MERN Stack Developer** with a strong foundation in 
 
 ---
 
-## 🛠️ Tech Stack  
+# Languages & Tools
 
-
-<table style="width:100%;">
-  <tr>
-    <td align="center"><strong>VS Code</strong></td>
-    <td align="center"><strong>HTML5</strong></td>
-    <td align="center"><strong>CSS3</strong></td>
-    <td align="center"><strong>Tailwind CSS</strong></td>
-    <td align="center"><strong>DaisyUI</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" height="40"></td>
-  
-  </tr>
-  <tr>
-    <td align="center"><strong>JavaScript</strong></td>
-    <td align="center"><strong>Git</strong></td>
-    <td align="center"><strong>GitHub</strong></td>
-    <td align="center"><strong>NPM</strong></td>
-    <td align="center"><strong>Bootstrap</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/></td>
-    <td align="center"><img src="https://camo.githubusercontent.com/dbe4ba9617b5f2b9c3c12682ab9b2c687078af1cd25a2f545461157d8e1e7401/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" alt="GitHub Icon" height="40" />
-</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ReactJS</strong></td>
-    <td align="center"><strong>NodeJS</strong></td>
-    <td align="center"><strong>ExpressJS</strong></td>
-    <td align="center"><strong>MongoDB</strong></td>
-    <td align="center"><strong>Firebase</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="React Icon" height="40" />
-</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/></td>
-    <td align="center"><img src="https://camo.githubusercontent.com/eed59029fe16e0f33431721522fb0eede534a072db478245b89b6bc4ab1b10f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="Express.js Icon" height="40" />
-</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Router</strong></td>
-    <td align="center"><strong>Vite</strong></td>
-    <td align="center"><strong>Figma</strong></td>
-    <td align="center"><strong>Material UI</strong></td>
-    <td align="center"><strong>JWT</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/></td>
-    <td align="center"><img src="https://camo.githubusercontent.com/5f77e0dcd4bf05df1401e866295f89e2c877ff5bc317e5210c062cfa6ca33065/68747470733a2f2f692e6962622e636f2e636f6d2f514a64733131302f69636f6e31342e706e67" alt="Alt Text" height="40" />
-</td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+    <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+        <br>VS Code
+      </td>
+    <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
+        <br>Github
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+        <br>NPM
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://avatars.githubusercontent.com/u/76870092?s=200&v=4" width="48" height="48" alt="daisy" />
+        <br>Daisy
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>ReactJS
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+        <br>NodeJS
+      </td>
+    <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+        <br>ExpressJS
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+        <br>MongoDB
+      </td>
+    <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="48" height="48" alt="Router" />
+        <br>Router
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="vite" />
+        <br>Vite
+      </td>
+    <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+    <td align="center" width="96"> 
+          <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialui" />
+        <br>Material
+      </td>
+    <td align="center" width="96"> 
+          <img src="https://i.ibb.co.com/QJds110/icon14.png" width="48" height="48" alt="jwt" />
+        <br>JWT
+      </td>
+    </tr>
+  </table>
 
 
 
